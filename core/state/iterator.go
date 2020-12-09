@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
-	"github.com/liuji3978/fdg-chain/lib/trie"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/lib/trie"
 )
 
 // NodeIterator is an iterator to traverse the entire state trie post-order,

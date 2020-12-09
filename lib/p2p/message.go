@@ -25,9 +25,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/lib/event"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/lib/event"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 )
 
 // Msg defines the structure of a p2p message.

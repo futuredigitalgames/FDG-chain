@@ -17,12 +17,12 @@
 package fdg
 
 import (
-	"github.com/liuji3978/fdg-chain/core"
-	"github.com/liuji3978/fdg-chain/core/forkid"
-	"github.com/liuji3978/fdg-chain/lib/p2p"
-	"github.com/liuji3978/fdg-chain/lib/p2p/dnsdisc"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/core"
+	"github.com/futuredigitalgames/fdg-chain/core/forkid"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/dnsdisc"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 )
 
 // ethEntry is the "eth" ENR entry which advertises eth protocol

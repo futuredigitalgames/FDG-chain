@@ -16,7 +16,7 @@
 
 package discv5
 
-import "github.com/liuji3978/fdg-chain/metrics"
+import "github.com/futuredigitalgames/fdg-chain/metrics"
 
 var (
 	ingressTrafficMeter = metrics.NewRegisteredMeter("discv5/InboundTraffic", nil)

@@ -23,10 +23,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/mclock"
-	"github.com/liuji3978/fdg-chain/core"
-	"github.com/liuji3978/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/core"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
 )
 
 var (

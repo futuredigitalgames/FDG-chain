@@ -19,7 +19,7 @@ package fdgapi
 import (
 	"sync"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 type AddrLocker struct {

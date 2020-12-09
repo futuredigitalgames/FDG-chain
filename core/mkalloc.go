@@ -34,8 +34,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/liuji3978/fdg-chain/core"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/core"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 )
 
 type allocItem struct{ Addr, Balance *big.Int }

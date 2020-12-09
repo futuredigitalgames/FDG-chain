@@ -26,24 +26,24 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/liuji3978/fdg-chain/accounts"
-	"github.com/liuji3978/fdg-chain/accounts/abi"
-	"github.com/liuji3978/fdg-chain/accounts/keystore"
-	"github.com/liuji3978/fdg-chain/wallet/scwallet"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/hexutil"
-	"github.com/liuji3978/fdg-chain/common/math"
-	"github.com/liuji3978/fdg-chain/consensus/clique"
-	"github.com/liuji3978/fdg-chain/consensus/fdgash"
-	"github.com/liuji3978/fdg-chain/core"
-	"github.com/liuji3978/fdg-chain/core/types"
-	"github.com/liuji3978/fdg-chain/vm"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/p2p"
-	"github.com/liuji3978/fdg-chain/lib/params"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/accounts"
+	"github.com/futuredigitalgames/fdg-chain/accounts/abi"
+	"github.com/futuredigitalgames/fdg-chain/accounts/keystore"
+	"github.com/futuredigitalgames/fdg-chain/wallet/scwallet"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/common/math"
+	"github.com/futuredigitalgames/fdg-chain/consensus/clique"
+	"github.com/futuredigitalgames/fdg-chain/consensus/fdgash"
+	"github.com/futuredigitalgames/fdg-chain/core"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/vm"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 	"github.com/tyler-smith/go-bip39"
 )
 
@@ -430,7 +430,7 @@ func (s *PrivateAccountAPI) SignTransaction(ctx context.Context, args SendTxArgs
 //
 // The key used to calculate the signature is decrypted with the given password.
 //
-// https://github.com/liuji3978/fdg-chain/wiki/Management-APIs#personal_sign
+// https://github.com/futuredigitalgames/fdg-chain/wiki/Management-APIs#personal_sign
 func (s *PrivateAccountAPI) Sign(ctx context.Context, data hexutil.Bytes, addr common.Address, passwd string) (hexutil.Bytes, error) {
 	// Look up the wallet containing the requested signer
 	account := accounts.Account{Address: addr}
@@ -458,7 +458,7 @@ func (s *PrivateAccountAPI) Sign(ctx context.Context, data hexutil.Bytes, addr c
 // Note, the signature must conform to the secp256k1 curve R, S and V values, where
 // the V value must be 27 or 28 for legacy reasons.
 //
-// https://github.com/liuji3978/fdg-chain/wiki/Management-APIs#personal_ecRecover
+// https://github.com/futuredigitalgames/fdg-chain/wiki/Management-APIs#personal_ecRecover
 func (s *PrivateAccountAPI) EcRecover(ctx context.Context, data, sig hexutil.Bytes) (common.Address, error) {
 	if len(sig) != crypto.SignatureLength {
 		return common.Address{}, fmt.Errorf("signature must be %d bytes long", crypto.SignatureLength)

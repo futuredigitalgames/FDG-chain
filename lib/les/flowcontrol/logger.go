@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
 )
 
 // logger collects events in string format and discards events older than the

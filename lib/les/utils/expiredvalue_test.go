@@ -19,7 +19,7 @@ package utils
 import (
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
 )
 
 func TestValueExpiration(t *testing.T) {

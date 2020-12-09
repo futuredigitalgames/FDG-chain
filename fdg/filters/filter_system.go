@@ -24,14 +24,14 @@ import (
 	"sync"
 	"time"
 
-	ethereum "github.com/liuji3978/fdg-chain"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/core"
-	"github.com/liuji3978/fdg-chain/core/rawdb"
-	"github.com/liuji3978/fdg-chain/core/types"
-	"github.com/liuji3978/fdg-chain/lib/event"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/rpc"
+	ethereum "github.com/futuredigitalgames/fdg-chain"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/core"
+	"github.com/futuredigitalgames/fdg-chain/core/rawdb"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/lib/event"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 )
 
 // Type determines the kind of filter and is used to put the filter in to

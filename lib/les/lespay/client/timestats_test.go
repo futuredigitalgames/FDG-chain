@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/lib/les/utils"
+	"github.com/futuredigitalgames/fdg-chain/lib/les/utils"
 )
 
 func TestTransition(t *testing.T) {

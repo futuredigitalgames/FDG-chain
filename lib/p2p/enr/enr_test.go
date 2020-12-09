@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

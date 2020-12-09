@@ -30,8 +30,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
 )
 
 // Node represents a host on the network.

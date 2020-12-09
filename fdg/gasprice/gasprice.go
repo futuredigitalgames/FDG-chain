@@ -22,11 +22,11 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/core/types"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/params"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 )
 
 const sampleNumber = 3 // Number of transactions sampled in a block

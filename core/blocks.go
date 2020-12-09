@@ -16,7 +16,7 @@
 
 package core
 
-import "github.com/liuji3978/fdg-chain/common"
+import "github.com/futuredigitalgames/fdg-chain/common"
 
 // BadHashes represent a set of manually tracked bad hashes (usually hard forks)
 var BadHashes = map[common.Hash]bool{

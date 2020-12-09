@@ -24,11 +24,11 @@ import (
 	"math/big"
 	"unsafe"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/hexutil"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/params"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 )
 
 //go:generate gencodec -type Receipt -field-override receiptMarshaling -out gen_receipt_json.go

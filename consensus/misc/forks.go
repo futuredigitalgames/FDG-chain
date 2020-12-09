@@ -19,9 +19,9 @@ package misc
 import (
 	"fmt"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/core/types"
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 )
 
 // VerifyForkHashes verifies that blocks conforming to network hard-forks do have

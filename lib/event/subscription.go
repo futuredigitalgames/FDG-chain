@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
 )
 
 // Subscription represents a stream of events. The carrier of the events is typically a

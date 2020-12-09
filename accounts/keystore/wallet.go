@@ -19,10 +19,10 @@ package keystore
 import (
 	"math/big"
 
-	ethereum "github.com/liuji3978/fdg-chain"
-	"github.com/liuji3978/fdg-chain/accounts"
-	"github.com/liuji3978/fdg-chain/core/types"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
+	ethereum "github.com/futuredigitalgames/fdg-chain"
+	"github.com/futuredigitalgames/fdg-chain/accounts"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

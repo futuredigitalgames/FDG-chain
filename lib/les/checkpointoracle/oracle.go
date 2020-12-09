@@ -25,12 +25,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/accounts/abi/bind"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/contracts/checkpointoracle"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/accounts/abi/bind"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/contracts/checkpointoracle"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 )
 
 // CheckpointOracle is responsible for offering the latest stable checkpoint

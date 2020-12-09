@@ -20,9 +20,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 )
 
 func TestEIP155Signing(t *testing.T) {

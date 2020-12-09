@@ -26,17 +26,17 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/liuji3978/fdg-chain/accounts"
-	"github.com/liuji3978/fdg-chain/accounts/external"
-	"github.com/liuji3978/fdg-chain/accounts/keystore"
-	"github.com/liuji3978/fdg-chain/wallet/scwallet"
-	"github.com/liuji3978/fdg-chain/wallet/usbwallet"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/p2p"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/accounts"
+	"github.com/futuredigitalgames/fdg-chain/accounts/external"
+	"github.com/futuredigitalgames/fdg-chain/accounts/keystore"
+	"github.com/futuredigitalgames/fdg-chain/wallet/scwallet"
+	"github.com/futuredigitalgames/fdg-chain/wallet/usbwallet"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 )
 
 const (

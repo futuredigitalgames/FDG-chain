@@ -19,8 +19,8 @@ package les
 import (
 	"errors"
 
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
 )
 
 type ulc struct {

@@ -17,9 +17,9 @@
 package core
 
 import (
-	"github.com/liuji3978/fdg-chain/core/state"
-	"github.com/liuji3978/fdg-chain/core/types"
-	"github.com/liuji3978/fdg-chain/vm"
+	"github.com/futuredigitalgames/fdg-chain/core/state"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/vm"
 )
 
 // Validator is an interface which defines the standard for block validation. It

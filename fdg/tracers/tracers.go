@@ -21,7 +21,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/liuji3978/fdg-chain/fdg/tracers/internal/tracers"
+	"github.com/futuredigitalgames/fdg-chain/fdg/tracers/internal/tracers"
 )
 
 // all contains all the built in JavaScript tracers by name.

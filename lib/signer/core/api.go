@@ -25,16 +25,16 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/liuji3978/fdg-chain/accounts"
-	"github.com/liuji3978/fdg-chain/accounts/keystore"
-	"github.com/liuji3978/fdg-chain/wallet/scwallet"
-	"github.com/liuji3978/fdg-chain/wallet/usbwallet"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/hexutil"
-	"github.com/liuji3978/fdg-chain/rpc/fdgapi"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
-	"github.com/liuji3978/fdg-chain/lib/signer/storage"
+	"github.com/futuredigitalgames/fdg-chain/accounts"
+	"github.com/futuredigitalgames/fdg-chain/accounts/keystore"
+	"github.com/futuredigitalgames/fdg-chain/wallet/scwallet"
+	"github.com/futuredigitalgames/fdg-chain/wallet/usbwallet"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/rpc/fdgapi"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/lib/signer/storage"
 )
 
 const (

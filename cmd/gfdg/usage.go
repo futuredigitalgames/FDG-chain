@@ -22,9 +22,9 @@ import (
 	"io"
 	"sort"
 
-	"github.com/liuji3978/fdg-chain/cmd/utils"
-	"github.com/liuji3978/fdg-chain/internal/debug"
-	"github.com/liuji3978/fdg-chain/internal/flags"
+	"github.com/futuredigitalgames/fdg-chain/cmd/utils"
+	"github.com/futuredigitalgames/fdg-chain/internal/debug"
+	"github.com/futuredigitalgames/fdg-chain/internal/flags"
 	cli "gopkg.in/urfave/cli.v1"
 )
 

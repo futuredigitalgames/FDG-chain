@@ -21,8 +21,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common/mclock"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
 )
 
 const (

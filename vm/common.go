@@ -17,8 +17,8 @@
 package vm
 
 import (
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/math"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/math"
 	"github.com/holiman/uint256"
 )
 

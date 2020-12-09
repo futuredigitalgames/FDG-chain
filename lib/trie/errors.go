@@ -19,7 +19,7 @@ package trie
 import (
 	"fmt"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 // MissingNodeError is returned by the trie functions (TryGet, TryUpdate, TryDelete)

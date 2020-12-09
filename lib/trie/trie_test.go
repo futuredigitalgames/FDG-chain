@@ -29,11 +29,11 @@ import (
 	"testing/quick"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/fdgdb/leveldb"
-	"github.com/liuji3978/fdg-chain/lib/fdgdb/memorydb"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb/leveldb"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb/memorydb"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 )
 
 func init() {

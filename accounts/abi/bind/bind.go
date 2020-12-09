@@ -17,7 +17,7 @@
 // Package bind generates Ethereum contract Go bindings.
 //
 // Detailed usage document and tutorial available on the go-fdg Wiki page:
-// https://github.com/liuji3978/fdg-chain/wiki/Native-DApps:-Go-bindings-to-Ethereum-contracts
+// https://github.com/futuredigitalgames/fdg-chain/wiki/Native-DApps:-Go-bindings-to-Ethereum-contracts
 package bind
 
 import (
@@ -30,8 +30,8 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/liuji3978/fdg-chain/accounts/abi"
-	"github.com/liuji3978/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/accounts/abi"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
 )
 
 // Lang is a target programming language selector to generate bindings for.

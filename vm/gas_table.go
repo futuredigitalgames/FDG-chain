@@ -19,9 +19,9 @@ package vm
 import (
 	"errors"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/math"
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/math"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 )
 
 // memoryGasCost calculates the quadratic gas for memory expansion. It does so

@@ -21,11 +21,11 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/hexutil"
-	"github.com/liuji3978/fdg-chain/core/rawdb"
-	"github.com/liuji3978/fdg-chain/core/state"
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/core/rawdb"
+	"github.com/futuredigitalgames/fdg-chain/core/state"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 )
 
 func TestMemoryGasCost(t *testing.T) {

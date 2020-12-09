@@ -19,8 +19,8 @@ package leveldb
 import (
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/lib/fdgdb"
-	"github.com/liuji3978/fdg-chain/ethdb/dbtest"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb"
+	"github.com/futuredigitalgames/fdg-chain/ethdb/dbtest"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/storage"
 )

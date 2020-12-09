@@ -26,9 +26,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/hexutil"
-	"github.com/liuji3978/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
 )
 
 // prepare converts an ethash cache or dataset from a byte stream into the internal

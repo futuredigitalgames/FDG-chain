@@ -25,7 +25,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/liuji3978/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
 )
 
 // ipcListen will create a Unix socket on the given endpoint.

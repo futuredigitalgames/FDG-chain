@@ -26,12 +26,12 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/liuji3978/fdg-chain/common/mclock"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/internal/testlog"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enr"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/internal/testlog"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enr"
 )
 
 const (

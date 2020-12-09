@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 )
 
 func TestUnmarshalJSONNewFilterArgs(t *testing.T) {

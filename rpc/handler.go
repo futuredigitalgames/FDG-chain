@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
 )
 
 // handler handles JSON-RPC messages. There is one handler per connection. Note that

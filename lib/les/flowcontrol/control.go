@@ -22,8 +22,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common/mclock"
-	"github.com/liuji3978/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
 )
 
 const (

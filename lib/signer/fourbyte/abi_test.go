@@ -22,8 +22,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/accounts/abi"
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/accounts/abi"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 func verify(t *testing.T, jsondata, calldata string, exp []interface{}) {

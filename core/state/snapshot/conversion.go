@@ -22,11 +22,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/fdgdb/memorydb"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
-	"github.com/liuji3978/fdg-chain/lib/trie"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb/memorydb"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/lib/trie"
 )
 
 // trieKV represents a trie key-value pair

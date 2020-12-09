@@ -25,10 +25,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common/bitutil"
-	"github.com/liuji3978/fdg-chain/metrics"
-	"github.com/liuji3978/fdg-chain/lib/p2p/rlpx"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/common/bitutil"
+	"github.com/futuredigitalgames/fdg-chain/metrics"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/rlpx"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 )
 
 const (

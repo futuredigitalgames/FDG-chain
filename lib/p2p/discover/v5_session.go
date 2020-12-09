@@ -19,8 +19,8 @@ package discover
 import (
 	crand "crypto/rand"
 
-	"github.com/liuji3978/fdg-chain/common/mclock"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
 	"github.com/hashicorp/golang-lru/simplelru"
 )
 

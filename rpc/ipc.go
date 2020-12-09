@@ -20,8 +20,8 @@ import (
 	"context"
 	"net"
 
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/p2p/netutil"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/netutil"
 )
 
 // ServeListener accepts connections on l, serving JSON-RPC on them.

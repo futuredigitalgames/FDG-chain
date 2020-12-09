@@ -20,10 +20,10 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/fdgdb"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 )
 
 // NodeSet stores a set of trie nodes. It implements trie.Database and can also

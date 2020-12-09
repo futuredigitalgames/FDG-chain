@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/fdgdb/memorydb"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb/memorydb"
 )
 
 // makeTestTrie create a sample test trie to test node-wise reconstruction.

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/metrics"
+	"github.com/futuredigitalgames/fdg-chain/metrics"
 )
 
 func TestMain(m *testing.M) {

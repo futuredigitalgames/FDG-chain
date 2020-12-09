@@ -23,11 +23,11 @@ import (
 	"strings"
 
 	"github.com/dop251/goja"
-	"github.com/liuji3978/fdg-chain/rpc/fdgapi"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/signer/core"
-	"github.com/liuji3978/fdg-chain/lib/signer/rules/deps"
-	"github.com/liuji3978/fdg-chain/lib/signer/storage"
+	"github.com/futuredigitalgames/fdg-chain/rpc/fdgapi"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/signer/core"
+	"github.com/futuredigitalgames/fdg-chain/lib/signer/rules/deps"
+	"github.com/futuredigitalgames/fdg-chain/lib/signer/storage"
 )
 
 var (

@@ -5,13 +5,13 @@ package fdg
 import (
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/consensus/fdgash"
-	"github.com/liuji3978/fdg-chain/core"
-	"github.com/liuji3978/fdg-chain/fdg/downloader"
-	"github.com/liuji3978/fdg-chain/fdg/gasprice"
-	"github.com/liuji3978/fdg-chain/miner"
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/consensus/fdgash"
+	"github.com/futuredigitalgames/fdg-chain/core"
+	"github.com/futuredigitalgames/fdg-chain/fdg/downloader"
+	"github.com/futuredigitalgames/fdg-chain/fdg/gasprice"
+	"github.com/futuredigitalgames/fdg-chain/miner"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 )
 
 // MarshalTOML marshals as TOML.

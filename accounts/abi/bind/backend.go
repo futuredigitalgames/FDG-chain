@@ -21,9 +21,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/liuji3978/fdg-chain"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
 )
 
 var (

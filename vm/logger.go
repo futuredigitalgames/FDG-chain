@@ -25,10 +25,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/hexutil"
-	"github.com/liuji3978/fdg-chain/common/math"
-	"github.com/liuji3978/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/common/math"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
 )
 
 var errTraceLimitReached = errors.New("the number of logs reached the specified limit")

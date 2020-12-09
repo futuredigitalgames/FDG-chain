@@ -20,7 +20,7 @@ package utils
 import (
 	"fmt"
 
-	"github.com/liuji3978/fdg-chain/console/prompt"
+	"github.com/futuredigitalgames/fdg-chain/console/prompt"
 )
 
 // GetPassPhrase displays the given text(prompt) to the user and requests some textual

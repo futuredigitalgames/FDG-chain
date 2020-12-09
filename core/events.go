@@ -17,8 +17,8 @@
 package core
 
 import (
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
 )
 
 // NewTxsEvent is posted when a batch of transactions enter the transaction pool.

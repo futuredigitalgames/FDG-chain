@@ -21,7 +21,7 @@ package p2p
 import (
 	"net"
 
-	"github.com/liuji3978/fdg-chain/metrics"
+	"github.com/futuredigitalgames/fdg-chain/metrics"
 )
 
 const (

@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
 )
 
 // Enabled is checked by the constructor functions for all of the

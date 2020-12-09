@@ -25,10 +25,10 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/core/rawdb"
-	"github.com/liuji3978/fdg-chain/core/state"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/core/rawdb"
+	"github.com/futuredigitalgames/fdg-chain/core/state"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
 )
 
 var dumper = spew.ConfigState{Indent: "    "}

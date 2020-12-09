@@ -19,7 +19,7 @@ package snapshot
 import (
 	"bytes"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 // hashes is a helper to implement sort.Interface.

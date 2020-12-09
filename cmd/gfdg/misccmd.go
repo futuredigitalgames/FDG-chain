@@ -23,10 +23,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/liuji3978/fdg-chain/cmd/utils"
-	"github.com/liuji3978/fdg-chain/consensus/fdgash"
-	"github.com/liuji3978/fdg-chain/fdg"
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/cmd/utils"
+	"github.com/futuredigitalgames/fdg-chain/consensus/fdgash"
+	"github.com/futuredigitalgames/fdg-chain/fdg"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 	"gopkg.in/urfave/cli.v1"
 )
 

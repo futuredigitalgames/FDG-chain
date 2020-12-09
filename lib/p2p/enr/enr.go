@@ -40,7 +40,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 )
 
 const SizeLimit = 300 // maximum encoded size of a node record in bytes

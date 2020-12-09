@@ -20,8 +20,8 @@
 package node
 
 import (
-	"github.com/liuji3978/fdg-chain/lib/p2p"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 )
 
 // NoopLifecycle is a trivial implementation of the Service interface.

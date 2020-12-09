@@ -19,10 +19,10 @@ package simulations
 import (
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/lib/p2p"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enr"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enr"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 )
 
 // NoopService is the service that does not do anything

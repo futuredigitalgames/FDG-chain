@@ -22,12 +22,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/liuji3978/fdg-chain"
-	"github.com/liuji3978/fdg-chain/accounts/abi"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/core/types"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/event"
+	"github.com/futuredigitalgames/fdg-chain"
+	"github.com/futuredigitalgames/fdg-chain/accounts/abi"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/event"
 )
 
 // SignerFn is a signer function callback when a contract requires a method to

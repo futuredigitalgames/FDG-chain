@@ -28,9 +28,9 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/crypto/ecies"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto/ecies"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 	"github.com/stretchr/testify/assert"
 )
 

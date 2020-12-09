@@ -20,8 +20,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
 )
 
 // senderFromServer is a types.Signer that remembers the sender address returned by the RPC

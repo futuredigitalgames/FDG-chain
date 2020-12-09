@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/liuji3978/fdg-chain/fdg"
-	"github.com/liuji3978/fdg-chain/lib/node"
+	"github.com/futuredigitalgames/fdg-chain/fdg"
+	"github.com/futuredigitalgames/fdg-chain/lib/node"
 	"gopkg.in/urfave/cli.v1"
 )
 

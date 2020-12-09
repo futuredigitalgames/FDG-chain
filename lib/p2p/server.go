@@ -29,17 +29,17 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/mclock"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/event"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/p2p/discover"
-	"github.com/liuji3978/fdg-chain/lib/p2p/discv5"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enr"
-	"github.com/liuji3978/fdg-chain/lib/p2p/nat"
-	"github.com/liuji3978/fdg-chain/lib/p2p/netutil"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/event"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/discover"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/discv5"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enr"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/nat"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/netutil"
 )
 
 const (

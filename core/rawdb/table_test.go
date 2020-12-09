@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/lib/fdgdb"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb"
 )
 
 func TestTableDatabase(t *testing.T)            { testTableDatabase(t, "prefix") }

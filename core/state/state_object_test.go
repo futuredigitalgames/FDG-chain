@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 func BenchmarkCutOriginal(b *testing.B) {

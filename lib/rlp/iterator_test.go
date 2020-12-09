@@ -19,7 +19,7 @@ package rlp
 import (
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
 )
 
 // TestIterator tests some basic things about the ListIterator. A more

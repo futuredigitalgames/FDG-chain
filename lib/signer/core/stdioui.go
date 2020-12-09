@@ -19,9 +19,9 @@ package core
 import (
 	"context"
 
-	"github.com/liuji3978/fdg-chain/rpc/fdgapi"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/rpc/fdgapi"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 )
 
 type StdIOUI struct {

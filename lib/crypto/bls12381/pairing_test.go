@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 func TestPairingExpected(t *testing.T) {

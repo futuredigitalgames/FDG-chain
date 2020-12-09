@@ -23,13 +23,13 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/liuji3978/fdg-chain/consensus/fdgash"
-	"github.com/liuji3978/fdg-chain/core"
-	"github.com/liuji3978/fdg-chain/core/rawdb"
-	"github.com/liuji3978/fdg-chain/core/state"
-	"github.com/liuji3978/fdg-chain/vm"
-	"github.com/liuji3978/fdg-chain/lib/params"
-	"github.com/liuji3978/fdg-chain/lib/trie"
+	"github.com/futuredigitalgames/fdg-chain/consensus/fdgash"
+	"github.com/futuredigitalgames/fdg-chain/core"
+	"github.com/futuredigitalgames/fdg-chain/core/rawdb"
+	"github.com/futuredigitalgames/fdg-chain/core/state"
+	"github.com/futuredigitalgames/fdg-chain/vm"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/lib/trie"
 )
 
 func TestNodeIterator(t *testing.T) {

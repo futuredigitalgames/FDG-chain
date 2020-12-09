@@ -21,9 +21,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/fdg/downloader"
-	"github.com/liuji3978/fdg-chain/lib/p2p"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/fdg/downloader"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
 )
 
 func TestFastSyncDisabling63(t *testing.T) { testFastSyncDisabling(t, 63) }

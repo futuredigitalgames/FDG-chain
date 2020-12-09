@@ -25,7 +25,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 	"github.com/stretchr/testify/assert"
 )
 

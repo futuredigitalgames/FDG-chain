@@ -21,11 +21,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/consensus/fdgash"
-	"github.com/liuji3978/fdg-chain/core/rawdb"
-	"github.com/liuji3978/fdg-chain/core/types"
-	"github.com/liuji3978/fdg-chain/vm"
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/consensus/fdgash"
+	"github.com/futuredigitalgames/fdg-chain/core/rawdb"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/vm"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 )
 
 // Tests that simple header verification works, for both good and bad blocks.

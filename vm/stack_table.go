@@ -17,7 +17,7 @@
 package vm
 
 import (
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 )
 
 func minSwapStack(n int) int {

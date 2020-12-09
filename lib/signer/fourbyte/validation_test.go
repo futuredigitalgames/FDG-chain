@@ -20,9 +20,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/hexutil"
-	"github.com/liuji3978/fdg-chain/lib/signer/core"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/lib/signer/core"
 )
 
 func mixAddr(a string) (*common.MixedcaseAddress, error) {

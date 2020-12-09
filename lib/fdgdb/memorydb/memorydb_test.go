@@ -19,8 +19,8 @@ package memorydb
 import (
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/lib/fdgdb"
-	"github.com/liuji3978/fdg-chain/ethdb/dbtest"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb"
+	"github.com/futuredigitalgames/fdg-chain/ethdb/dbtest"
 )
 
 func TestMemoryDB(t *testing.T) {

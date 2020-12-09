@@ -20,7 +20,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
 )
 
 // Simulation provides a framework for running actions in a simulated network

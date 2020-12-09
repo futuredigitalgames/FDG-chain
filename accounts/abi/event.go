@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
 )
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event

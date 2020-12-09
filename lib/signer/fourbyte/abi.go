@@ -23,8 +23,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/liuji3978/fdg-chain/accounts/abi"
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/accounts/abi"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 // decodedCallData is an internal type to represent a method call parsed according

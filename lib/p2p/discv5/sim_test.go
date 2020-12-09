@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 // In this test, nodes try to randomly resolve each other.

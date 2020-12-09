@@ -27,7 +27,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 // TestPack tests the general pack/unpack tests in packing_test.go

@@ -27,13 +27,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/accounts/abi/bind"
-	"github.com/liuji3978/fdg-chain/accounts/abi/bind/backends"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/contracts/checkpointoracle/contract"
-	"github.com/liuji3978/fdg-chain/core"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/accounts/abi/bind"
+	"github.com/futuredigitalgames/fdg-chain/accounts/abi/bind/backends"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/contracts/checkpointoracle/contract"
+	"github.com/futuredigitalgames/fdg-chain/core"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 )
 
 var (

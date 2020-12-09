@@ -17,7 +17,7 @@
 package rawdb
 
 import (
-	"github.com/liuji3978/fdg-chain/lib/fdgdb"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb"
 )
 
 // table is a wrapper around a database that prefixes each key access with a pre-

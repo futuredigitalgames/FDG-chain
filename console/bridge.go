@@ -19,19 +19,19 @@ package console
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/liuji3978/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
 	"io"
 	"reflect"
 	"strings"
 	"time"
 
 	"github.com/dop251/goja"
-	"github.com/liuji3978/fdg-chain/wallet/scwallet"
-	"github.com/liuji3978/fdg-chain/wallet/usbwallet"
-	"github.com/liuji3978/fdg-chain/common/hexutil"
-	"github.com/liuji3978/fdg-chain/console/prompt"
-	"github.com/liuji3978/fdg-chain/internal/jsre"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/wallet/scwallet"
+	"github.com/futuredigitalgames/fdg-chain/wallet/usbwallet"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/console/prompt"
+	"github.com/futuredigitalgames/fdg-chain/internal/jsre"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 
 )
 

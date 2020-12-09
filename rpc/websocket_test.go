@@ -136,7 +136,7 @@ func TestClientWebsocketPing(t *testing.T) {
 	}
 
 	// Wait for the context's deadline to be reached before proceeding.
-	// This is important for reproducing https://github.com/liuji3978/fdg-chain/issues/19798
+	// This is important for reproducing https://github.com/futuredigitalgames/fdg-chain/issues/19798
 	<-ctx.Done()
 	close(sendPing)
 

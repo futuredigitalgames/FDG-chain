@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 // weightedIterator is a iterator with an assigned weight. It is used to prioritise

@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
 )
 
 func TestTopicRadius(t *testing.T) {

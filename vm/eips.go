@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 	"github.com/holiman/uint256"
 )
 

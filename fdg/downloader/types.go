@@ -19,7 +19,7 @@ package downloader
 import (
 	"fmt"
 
-	"github.com/liuji3978/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
 )
 
 // peerDropFn is a callback type for dropping a peer detected as malicious.

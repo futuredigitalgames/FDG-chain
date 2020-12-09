@@ -20,9 +20,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/liuji3978/fdg-chain"
-	"github.com/liuji3978/fdg-chain/lib/event"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain"
+	"github.com/futuredigitalgames/fdg-chain/lib/event"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 )
 
 // PublicDownloaderAPI provides an API which gives information about the current synchronisation status.

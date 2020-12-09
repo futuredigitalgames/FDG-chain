@@ -23,8 +23,8 @@ import (
 	"math"
 	"strings"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
 )
 
 // API describes the set of methods offered over the RPC interface

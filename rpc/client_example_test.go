@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common/hexutil"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 )
 
 // In this example, our client wishes to track the latest 'block number'

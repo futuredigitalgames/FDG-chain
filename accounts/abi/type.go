@@ -24,7 +24,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 // Type enumerator

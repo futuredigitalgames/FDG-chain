@@ -26,12 +26,12 @@ import (
 
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/liuji3978/fdg-chain/cmd/utils"
-	"github.com/liuji3978/fdg-chain/fdg"
-	"github.com/liuji3978/fdg-chain/rpc/fdgapi"
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/lib/node"
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/cmd/utils"
+	"github.com/futuredigitalgames/fdg-chain/fdg"
+	"github.com/futuredigitalgames/fdg-chain/rpc/fdgapi"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/lib/node"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 	"github.com/naoina/toml"
 )
 

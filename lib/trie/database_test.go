@@ -19,8 +19,8 @@ package trie
 import (
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/fdgdb/memorydb"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb/memorydb"
 )
 
 // Tests that the trie database returns a missing trie node error if attempting

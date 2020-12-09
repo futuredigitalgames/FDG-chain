@@ -29,11 +29,11 @@ import (
 	"syscall"
 
 	"github.com/dop251/goja"
-	"github.com/liuji3978/fdg-chain/console/prompt"
-	"github.com/liuji3978/fdg-chain/internal/jsre"
-	"github.com/liuji3978/fdg-chain/internal/jsre/deps"
-	"github.com/liuji3978/fdg-chain/internal/web3ext"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/console/prompt"
+	"github.com/futuredigitalgames/fdg-chain/internal/jsre"
+	"github.com/futuredigitalgames/fdg-chain/internal/jsre/deps"
+	"github.com/futuredigitalgames/fdg-chain/internal/web3ext"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 	"github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
 )

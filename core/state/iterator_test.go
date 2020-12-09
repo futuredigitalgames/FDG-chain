@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/fdgdb"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

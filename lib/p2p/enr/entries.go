@@ -21,7 +21,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 )
 
 // Entry is implemented by known node record entry types.

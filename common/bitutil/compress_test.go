@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
 )
 
 // Tests that data bitset encoding and decoding works and is bijective.

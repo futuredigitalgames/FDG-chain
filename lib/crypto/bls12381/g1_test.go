@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 func (g *G1) one() *PointG1 {

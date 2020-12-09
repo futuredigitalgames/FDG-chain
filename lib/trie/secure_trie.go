@@ -19,8 +19,8 @@ package trie
 import (
 	"fmt"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
 )
 
 // SecureTrie wraps a trie with key hashing. In a secure trie, all

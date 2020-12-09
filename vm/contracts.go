@@ -22,13 +22,13 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/math"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/crypto/blake2b"
-	"github.com/liuji3978/fdg-chain/lib/crypto/bls12381"
-	"github.com/liuji3978/fdg-chain/lib/crypto/bn256"
-	"github.com/liuji3978/fdg-chain/lib/params"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/math"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto/blake2b"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto/bls12381"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto/bn256"
+	"github.com/futuredigitalgames/fdg-chain/lib/params"
 
 	//lint:ignore SA1019 Needed for precompile
 	"golang.org/x/crypto/ripemd160"

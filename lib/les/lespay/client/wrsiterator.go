@@ -19,9 +19,9 @@ package client
 import (
 	"sync"
 
-	"github.com/liuji3978/fdg-chain/lib/les/utils"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
-	"github.com/liuji3978/fdg-chain/lib/p2p/nodestate"
+	"github.com/futuredigitalgames/fdg-chain/lib/les/utils"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/nodestate"
 )
 
 // WrsIterator returns nodes from the specified selectable set with a weighted random

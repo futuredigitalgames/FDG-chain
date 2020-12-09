@@ -27,7 +27,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
 )
 
 func TestMocker(t *testing.T) {

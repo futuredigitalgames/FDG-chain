@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/liuji3978/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
 )
 
 type MyType [5]byte

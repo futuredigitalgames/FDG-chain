@@ -22,9 +22,9 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/core/types"
-	"github.com/liuji3978/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
 )
 
 // nonceHeap is a heap.Interface implementation over 64bit unsigned integers for

@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/lib/p2p/enr"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enr"
 )
 
 func TestReadNodes(t *testing.T) {

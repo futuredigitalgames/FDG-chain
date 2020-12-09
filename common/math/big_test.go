@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 func TestHexOrDecimal256(t *testing.T) {

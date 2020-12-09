@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/liuji3978/fdg-chain/lib/event"
+	"github.com/futuredigitalgames/fdg-chain/lib/event"
 )
 
 func ExampleNewSubscription() {

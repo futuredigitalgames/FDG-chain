@@ -21,8 +21,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enr"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enr"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -21,8 +21,8 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/lib/event"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/lib/event"
 )
 
 // Config contains the settings of the global account manager.

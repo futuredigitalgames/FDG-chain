@@ -23,10 +23,10 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/liuji3978/fdg-chain/accounts/abi/bind"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/contracts/checkpointoracle/contract"
-	"github.com/liuji3978/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/accounts/abi/bind"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/contracts/checkpointoracle/contract"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
 )
 
 // CheckpointOracle is a Go wrapper around an on-chain checkpoint oracle contract.

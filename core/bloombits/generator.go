@@ -19,7 +19,7 @@ package bloombits
 import (
 	"errors"
 
-	"github.com/liuji3978/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
 )
 
 var (

@@ -26,7 +26,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/common/math"
+	"github.com/futuredigitalgames/fdg-chain/common/math"
 )
 
 type testEncoder struct {

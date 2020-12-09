@@ -22,7 +22,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/lib/fdgdb"
+	"github.com/futuredigitalgames/fdg-chain/lib/fdgdb"
 )
 
 // TestDatabaseSuite runs a suite of tests against a KeyValueStore database

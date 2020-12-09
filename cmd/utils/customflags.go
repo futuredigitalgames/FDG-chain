@@ -26,7 +26,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/liuji3978/fdg-chain/common/math"
+	"github.com/futuredigitalgames/fdg-chain/common/math"
 	"gopkg.in/urfave/cli.v1"
 )
 

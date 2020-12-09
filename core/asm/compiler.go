@@ -22,8 +22,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/liuji3978/fdg-chain/common/math"
-	"github.com/liuji3978/fdg-chain/vm"
+	"github.com/futuredigitalgames/fdg-chain/common/math"
+	"github.com/futuredigitalgames/fdg-chain/vm"
 )
 
 // Compiler contains information about the parsed source

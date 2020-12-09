@@ -24,10 +24,10 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/liuji3978/fdg-chain/cmd/utils"
-	"github.com/liuji3978/fdg-chain/console"
-	"github.com/liuji3978/fdg-chain/lib/node"
-	"github.com/liuji3978/fdg-chain/rpc"
+	"github.com/futuredigitalgames/fdg-chain/cmd/utils"
+	"github.com/futuredigitalgames/fdg-chain/console"
+	"github.com/futuredigitalgames/fdg-chain/lib/node"
+	"github.com/futuredigitalgames/fdg-chain/rpc"
 	"gopkg.in/urfave/cli.v1"
 )
 
@@ -43,7 +43,7 @@ var (
 		Description: `
 The Geth console is an interactive shell for the JavaScript runtime environment
 which exposes a node admin interface as well as the Ðapp JavaScript API.
-See https://github.com/liuji3978/fdg-chain/wiki/JavaScript-Console.`,
+See https://github.com/futuredigitalgames/fdg-chain/wiki/JavaScript-Console.`,
 	}
 
 	attachCommand = cli.Command{
@@ -56,7 +56,7 @@ See https://github.com/liuji3978/fdg-chain/wiki/JavaScript-Console.`,
 		Description: `
 The Geth console is an interactive shell for the JavaScript runtime environment
 which exposes a node admin interface as well as the Ðapp JavaScript API.
-See https://github.com/liuji3978/fdg-chain/wiki/JavaScript-Console.
+See https://github.com/futuredigitalgames/fdg-chain/wiki/JavaScript-Console.
 This command allows to open a console on a running geth node.`,
 	}
 
@@ -69,7 +69,7 @@ This command allows to open a console on a running geth node.`,
 		Category:  "CONSOLE COMMANDS",
 		Description: `
 The JavaScript VM exposes a node admin interface as well as the Ðapp
-JavaScript API. See https://github.com/liuji3978/fdg-chain/wiki/JavaScript-Console`,
+JavaScript API. See https://github.com/futuredigitalgames/fdg-chain/wiki/JavaScript-Console`,
 	}
 )
 

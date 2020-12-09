@@ -54,7 +54,7 @@ func TestBloom(t *testing.T) {
 import (
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/core/state"
+	"github.com/futuredigitalgames/fdg-chain/core/state"
 )
 
 func TestBloom9(t *testing.T) {

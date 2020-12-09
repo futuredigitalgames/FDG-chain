@@ -19,8 +19,8 @@ package core
 import (
 	"sync"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/core/state"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/core/state"
 )
 
 // txNoncer is a tiny virtual state database to manage the executable nonces of

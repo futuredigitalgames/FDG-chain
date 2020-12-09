@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common/mclock"
-	"github.com/liuji3978/fdg-chain/lib/p2p/nodestate"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/nodestate"
 )
 
 var (

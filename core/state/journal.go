@@ -19,7 +19,7 @@ package state
 import (
 	"math/big"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 // journalEntry is a modification entry in the state change journal that can be

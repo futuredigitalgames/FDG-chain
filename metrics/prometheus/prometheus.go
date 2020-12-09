@@ -22,8 +22,8 @@ import (
 	"net/http"
 	"sort"
 
-	"github.com/liuji3978/fdg-chain/lib/log"
-	"github.com/liuji3978/fdg-chain/metrics"
+	"github.com/futuredigitalgames/fdg-chain/lib/log"
+	"github.com/futuredigitalgames/fdg-chain/metrics"
 )
 
 // Handler returns an HTTP handler which dump metrics in Prometheus format.

@@ -19,9 +19,9 @@ package simulations
 import (
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/lib/node"
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
-	"github.com/liuji3978/fdg-chain/lib/p2p/simulations/adapters"
+	"github.com/futuredigitalgames/fdg-chain/lib/node"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/simulations/adapters"
 )
 
 func newTestNetwork(t *testing.T, nodeCount int) (*Network, []enode.ID) {

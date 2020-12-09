@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 // precompiledTest defines the input/output pairs for precompiled contract tests.

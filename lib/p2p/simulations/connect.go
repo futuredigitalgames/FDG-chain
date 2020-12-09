@@ -20,7 +20,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/liuji3978/fdg-chain/lib/p2p/enode"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enode"
 )
 
 var (

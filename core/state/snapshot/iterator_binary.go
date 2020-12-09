@@ -19,7 +19,7 @@ package snapshot
 import (
 	"bytes"
 
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 // binaryIterator is a simplistic iterator to step over the accounts or storage

@@ -25,12 +25,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/accounts/keystore"
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/hexutil"
-	"github.com/liuji3978/fdg-chain/common/math"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/signer/core"
+	"github.com/futuredigitalgames/fdg-chain/accounts/keystore"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/common/math"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/signer/core"
 )
 
 var typesStandard = core.Types{

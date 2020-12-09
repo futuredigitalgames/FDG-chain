@@ -24,8 +24,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/lib/crypto"
-	"github.com/liuji3978/fdg-chain/lib/p2p"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p"
 )
 
 // Tests that datadirs can be successfully created, be them manually configured

@@ -21,7 +21,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/liuji3978/fdg-chain/vm"
+	"github.com/futuredigitalgames/fdg-chain/vm"
 )
 
 // Iterator for disassembled EVM instructions

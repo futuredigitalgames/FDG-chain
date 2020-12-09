@@ -19,9 +19,9 @@ package main
 import (
 	"math/big"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/common/hexutil"
-	"github.com/liuji3978/fdg-chain/core/types"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/common/hexutil"
+	"github.com/futuredigitalgames/fdg-chain/core/types"
 )
 
 // RPCTransaction represents a transaction that will serialize to the RPC representation of a transaction

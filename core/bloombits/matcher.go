@@ -26,8 +26,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common/bitutil"
-	"github.com/liuji3978/fdg-chain/lib/crypto"
+	"github.com/futuredigitalgames/fdg-chain/common/bitutil"
+	"github.com/futuredigitalgames/fdg-chain/lib/crypto"
 )
 
 // bloomIndexes represents the bit indexes inside the bloom filter that belong

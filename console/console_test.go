@@ -26,14 +26,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common"
-	"github.com/liuji3978/fdg-chain/consensus/fdgash"
-	"github.com/liuji3978/fdg-chain/console/prompt"
-	"github.com/liuji3978/fdg-chain/core"
-	"github.com/liuji3978/fdg-chain/fdg"
-	"github.com/liuji3978/fdg-chain/internal/jsre"
-	"github.com/liuji3978/fdg-chain/miner"
-	"github.com/liuji3978/fdg-chain/lib/node"
+	"github.com/futuredigitalgames/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/consensus/fdgash"
+	"github.com/futuredigitalgames/fdg-chain/console/prompt"
+	"github.com/futuredigitalgames/fdg-chain/core"
+	"github.com/futuredigitalgames/fdg-chain/fdg"
+	"github.com/futuredigitalgames/fdg-chain/internal/jsre"
+	"github.com/futuredigitalgames/fdg-chain/miner"
+	"github.com/futuredigitalgames/fdg-chain/lib/node"
 )
 
 const (

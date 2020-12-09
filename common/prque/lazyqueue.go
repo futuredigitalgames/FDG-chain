@@ -20,7 +20,7 @@ import (
 	"container/heap"
 	"time"
 
-	"github.com/liuji3978/fdg-chain/common/mclock"
+	"github.com/futuredigitalgames/fdg-chain/common/mclock"
 )
 
 // LazyQueue is a priority queue data structure where priorities can change over

@@ -20,7 +20,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/lib/les/utils"
+	"github.com/futuredigitalgames/fdg-chain/lib/les/utils"
 )
 
 func checkU64(t *testing.T, name string, value, exp uint64) {

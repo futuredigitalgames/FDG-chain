@@ -23,7 +23,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/lib/p2p/simulations/pipes"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/simulations/pipes"
 )
 
 func TestTCPPipe(t *testing.T) {

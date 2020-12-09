@@ -27,8 +27,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/liuji3978/fdg-chain/lib/p2p/enr"
-	"github.com/liuji3978/fdg-chain/lib/rlp"
+	"github.com/futuredigitalgames/fdg-chain/lib/p2p/enr"
+	"github.com/futuredigitalgames/fdg-chain/lib/rlp"
 )
 
 var errMissingPrefix = errors.New("missing 'enr:' prefix for base64-encoded record")

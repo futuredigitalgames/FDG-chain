@@ -22,8 +22,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/liuji3978/fdg-chain/accounts/abi"
-	"github.com/liuji3978/fdg-chain/common"
+	"github.com/futuredigitalgames/fdg-chain/accounts/abi"
+	"github.com/futuredigitalgames/fdg-chain/common"
 )
 
 // Tests that all the selectors contained in the 4byte database are valid.

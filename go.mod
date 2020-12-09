@@ -1,4 +1,4 @@
-module github.com/liuji3978/fdg-chain
+module github.com/futuredigitalgames/fdg-chain
 
 go 1.13
 

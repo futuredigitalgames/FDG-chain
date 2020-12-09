@@ -17,8 +17,8 @@
 package runtime
 
 import (
-	"github.com/liuji3978/fdg-chain/core"
-	"github.com/liuji3978/fdg-chain/vm"
+	"github.com/futuredigitalgames/fdg-chain/core"
+	"github.com/futuredigitalgames/fdg-chain/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {
