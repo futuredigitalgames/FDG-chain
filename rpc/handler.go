@@ -317,7 +317,7 @@ func (h *handler) handleCallMsg(ctx *callProc, msg *jsonrpcMessage) *jsonrpcMess
 
 // handleCall processes method calls.
 func (h *handler) handleCall(cp *callProc, msg *jsonrpcMessage) *jsonrpcMessage {
-	//log.Warn("123123",msg)
+	log.Warn("123123",msg)
 	if msg.isSubscribe() {
 		return h.handleSubscribe(cp, msg)
 	}
